@@ -52,7 +52,7 @@ https://github.com/Igorekpio/sys-37_ponomarev/commit/57db4d4b7eb9eda455dbd2b115f
 
 ### Задание 2 Пономарев Игорь
 ссылка на комит
-https://github.com/Igorekpio/sys-37_ponomarev/commit/7fb2d1d07ae220ce67919d53ca33917154988d96
+https://github.com/Igorekpio/sys-37_ponomarev/commit/bda8b352ecf8c880b1f13ac859fb783e739c30b0
 `Приведите ответ в свободной форме........`
 
 1. `Заполните здесь этапы выполнения, если требуется ....`
